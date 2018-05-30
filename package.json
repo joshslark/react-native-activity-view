@@ -7,7 +7,8 @@
     "start": "node_modules/react-native/packager/packager.sh",
     "test": "npm run lint"
   },
-  "main": "ActivityView",
+  "main": "ActivityView.ios.js",
+  "typings": "ActivityView.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/naoufal/react-native-activity-view.git"
